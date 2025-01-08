@@ -1,0 +1,22 @@
+.aboutimg{
+    display: flex;
+    margin-top: 30px;
+}
+.aouttext{
+text-align: start;
+color: #0066ff;
+font-size: 30px;
+margin-left: 200px;
+}
+.abtext{
+    text-align: justify;
+    margin-left: 100px;
+    width: 350px;
+}
+.abimg{
+    height: 300px;
+    margin-right: 200px;
+    width: 600px;
+    border-radius: 5px;
+    box-shadow:0 0 5px 0px #303844;
+}

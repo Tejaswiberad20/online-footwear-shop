@@ -12,9 +12,17 @@ body {
   background-color:rgb(232, 231, 243);
 
 }
-
+.logo{
+  display: flex;
+}
 .logo-img {
   width: 100px;
+}
+.simg{
+  height: 50px;
+  width: 50px;
+  
+  margin-bottom: 30px;
 }
 
 .background {
