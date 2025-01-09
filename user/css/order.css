@@ -1,0 +1,65 @@
+.order-box{
+    margin: 50px auto;
+    display: block;
+    height: 350px;
+    width: 650px;
+    border: 1px solid #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 5px #f8f7f7;
+    background-color: #fff;
+    text-align: center;
+    padding: 10px;
+    display: flex;
+
+}
+.orderifo{
+ 
+    display: flex;
+}
+.orderimg{
+    height: 300px;
+    width: 350px;
+    box-shadow: 0 0 10px #e6e5e5;
+}
+.pname{
+    font-size: 25px;
+    font-weight: bold;
+    margin: 10px;
+}
+.info{
+    font-size: 15px;
+    margin-left: 30px;
+    text-align: start;
+}
+.price{
+    font-size: 30px;
+    font-weight: bold;
+    margin: 10px;
+}
+.quantity{
+    font-size: 20px;
+    font-weight: bold;
+    margin: 10px;
+}
+.total{
+    font-size: 20px;
+    font-weight: bold;
+    border: 1px solid #fff;
+    margin-top: 20px;
+}
+.totinput{
+    font-size: 20px;
+    font-weight: bold;
+    border: 1px solid #fff;
+    margin-top: 20px;
+    width: 100px;
+    height: 30px;
+}
+.btn{
+    width: 200px;
+}
+.btn:hover{
+    background-color: #000;
+    color: #fff;
+    border:solid 1px  #000;
+}

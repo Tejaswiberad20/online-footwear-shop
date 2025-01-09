@@ -23,9 +23,11 @@
     border-radius: 5px;
     text-align: center;
     transition: 0.5s;
-
-
 }
+.product-info:hover{
+    transform: translateY(-9px);
+    box-shadow: 0 0 10px 1px #030303;
+    }
 .product-img{
     height: 240px;
     width: 247px;
@@ -51,5 +53,16 @@
     color:#fff;
     display: block;
     margin: 10px auto;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    box-shadow: 0 0 5px 0px #5c5b5b;
+    font-size: 20px;
+    transition: 0.5s;
 
+
+}
+.btn-buynow:hover{
+    background-color: #0066ff;
+    box-shadow: 0 0 10px 1px #030303;
 }
