@@ -1,0 +1,29 @@
+.contact-head{
+    color: #0066ff;
+    text-align: center;
+    margin: 20px;
+}
+.info-head{
+    text-align: justify;
+    margin-top: 10px;
+    padding: 10px;
+}
+.input1{ 
+    width: 280px;
+    height: 35px;
+    border-radius: 5px;
+    font-size: 20px;
+    border:1px solid #2e2d2d;
+}
+.right1-body{
+    display: inline-block;
+    padding: 10px 20px;
+    width: 350px;
+    height: 400px;
+    color:#000;
+}
+.right-head1{
+    text-align: justify;
+    margin-top: 5px;
+    padding: 10px;
+}
