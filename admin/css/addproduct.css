@@ -1,0 +1,39 @@
+body{
+    background-size:cover;
+  }
+.nav-link{
+    margin-left: 50px;
+}
+.addproduct1{
+  display:block;
+  margin:50px auto;
+  height: 580px;
+  width: 400px;
+  box-shadow:0 0 5px 0px #6a4af7; 
+  padding:10px 20px;
+  border-radius:10px;
+  text-align:center;
+  background-color:#bdb6fa;
+}
+.input{
+  width: 300px;
+
+}
+.input1{
+width:300px;}
+.btn{
+  display:block;
+  margin:50px auto;
+  box-shadow:0 0 5px 0px blue; 
+  padding:10px 20px;
+  border-radius:10px;
+  text-align:center;
+  background-color:#6a4af7;
+  color:#fff;
+  
+
+
+}
+.text{
+  text-align: start;
+}

@@ -1,0 +1,27 @@
+.head{
+    margin-top: 10px;
+    text-align: center;
+    color: blue;    
+  }
+  .btn{
+    display: block;
+    margin: 10px auto;
+    padding: 10px 20px;
+    background-color: blue;
+    box-shadow: 0 0 10px 0px burlywood;
+    border: none;
+    color: #fff;
+    border-radius: 10px;
+  }
+  .btn:hover{
+    display: block;
+    margin: 10px auto;
+    padding: 10px 20px;
+    background-color: blue;
+    box-shadow: 0 0 10px 0px burlywood;
+    border: none;
+    color: #fff;
+    border-radius: 10px;}
+  .table-row{
+   text-align: center;
+  }
