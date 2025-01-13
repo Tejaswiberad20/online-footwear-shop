@@ -18,10 +18,34 @@ body {
 .logo-img {
   width: 100px;
 }
+#myBtn {
+  display: none; /* Hidden by default */
+  position: fixed; /* Fixed/sticky position */
+  bottom: 20px; /* Place the button at the bottom of the page */
+  right: 30px; /* Place the button 30px from the right */
+  z-index: 99; /* Make sure it does not overlap */
+  border: none; /* Remove borders */
+  outline: none; /* Remove outline */
+  background-color: #70a0e9; /* Set a background color */
+  color: white; /* Text color */
+  cursor: pointer; /* Add a mouse pointer on hover */
+  padding: 15px; /* Some padding */
+  border-radius: 50px; /* Rounded corners */
+  font-size: 18px; /* Increase font size */
+}
+
+#myBtn:hover {
+  background-color: #fff; /* Add a dark-grey background on hover */
+}
+.handimg{
+  height: 50px;
+}
+
 
 .background {
 height: 100px;
-  background-color: #fff;
+
+background-color: #fff;
   box-shadow: 0 0 5px 1px gray;
 }
 
@@ -71,7 +95,7 @@ height: 100px;
 
 .head-btn {
   padding: 10px 20px;
-  width: 200px;
+  width: 150px;
   border: none;
   background-color: #fff;
   color: #000;
@@ -80,10 +104,10 @@ height: 100px;
   border-radius: 10px;
 }
 .head-btn:hover{
-  background-color: #fff;
-  color: #000;
-  width: 250px; 
-  box-shadow: 0 0 5px 1px #000;
+  background-color: #5a49f3;
+  color:#fff;
+  width: 200px; 
+  box-shadow: 0px 0px 3px 1.5px #fff;
 }
 
 
