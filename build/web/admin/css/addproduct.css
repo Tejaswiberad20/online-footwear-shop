@@ -1,0 +1,49 @@
+body {
+  background-size: cover;
+}
+
+.nav-link {
+  margin-left: 50px;
+}
+
+.addproduct1 {
+  display: block;
+  margin: 50px auto;
+  height: 580px;
+  width: 400px;
+  box-shadow: 0 0 5px 0px #6a4af7;
+  padding: 10px 20px;
+  border-radius: 10px;
+  text-align: center;
+  background-color: #d7d4f8;
+}
+
+.input {
+  width: 300px;
+  height: 35px;
+  border: solid 1px #c0bebe;
+  border-radius: 10px;
+
+}
+
+.input1 {
+  width: 300px;
+}
+
+.btn {
+  display: block;
+  margin: 20px auto;
+  box-shadow: 0 0 5px 0px blue;
+  padding: 10px 20px;
+  border-radius: 10px;
+  text-align: center;
+  background-color: #6a4af7;
+  color: #fff;
+  width: 200px;
+
+
+}
+
+.text {
+  text-align: start;
+}

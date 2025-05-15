@@ -1,0 +1,174 @@
+
+body {
+  background-position: center;
+  margin-top: 0px;
+  background-repeat: no-repeat;
+  font-family: "Bree Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+  background-size: cover;
+  width: 100%;
+  height: 500px;
+  background-color:rgb(232, 231, 243);
+
+}
+.logo{
+  display: flex;
+}
+.logo-img {
+  width: 100px;
+}
+.simg{
+  height: 50px;
+  width: 50px;
+  
+  margin-bottom: 30px;
+}
+
+.background {
+height: 100px;
+  background-color: #fff;
+  
+  box-shadow: 0 0 5px 1px gray;
+}
+
+.nav-link {
+  color: #000;
+}
+
+.nav-link:hover {
+  color:#0066ff;
+  text-underline-position: below;
+}
+
+.background-head {
+
+
+}
+
+.head {
+      font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+  font-weight: 400;
+  font-style: normal;
+  color: #fff;
+  text-align: center;
+  margin-top: 100px;
+  margin-left: 30px;
+}
+
+.text {
+  width: 450px;
+  color: #fff;
+  font-size: 20px;
+  text-align: center;
+  margin-left: 450px;
+}
+
+
+.head-img {
+  transform: rotateX();
+}
+
+.imghead {
+  background-color: #f7d0e1;
+  box-shadow: 0 0 3px 1px #f15398;
+}
+
+.head-btn {
+  padding: 10px 20px;
+  width: 200px;
+  border: none;
+  background-color: #fff;
+  color: #000;
+  margin:auto;
+  display: block;
+  border-radius: 10px;
+}
+.head-btn:hover{
+  background-color: #fff;
+  color: #000;
+  width: 250px; 
+  box-shadow: 0 0 5px 1px #000;
+}
+
+
+.head1 {
+  font-family: "Bree Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #f15398;
+  text-align: center;
+}
+
+
+.footer-basic {
+padding:40px 0;
+background-color:#080808;
+color:#fff;
+}
+
+.footer-basic ul {
+padding:0;
+list-style:none;
+text-align:center;
+font-size:18px;
+line-height:1.6;
+margin-bottom:0;
+}
+.icon{
+font-size:24px;
+width:40px;
+height:40px;
+line-height:40px;
+display:inline-block;
+text-align:center;
+border-radius:50%;
+border:1px solid #ccc;
+margin:0 8px;
+}
+
+.footer-basic li {
+padding:0 10px;
+}
+
+.footer-basic ul a {
+color:inherit;
+text-decoration:none;
+opacity:0.8;
+}
+
+.footer-basic ul a:hover {
+opacity:1;
+}
+
+.footer-basic .social {
+text-align:center;
+padding-bottom:25px;
+}
+
+.footer-basic .social > a {
+font-size:24px;
+width:40px;
+height:40px;
+line-height:40px;
+display:inline-block;
+text-align:center;
+border-radius:50%;
+margin:0 8px;
+color:inherit;
+opacity:0.75;
+}
+
+.footer-basic .social > a:hover {
+opacity:0.9;
+}
+
+.footer-basic .copyright {
+margin-top:15px;
+text-align:center;
+font-size:13px;
+color:#aaa;
+margin-bottom:0;
+}
